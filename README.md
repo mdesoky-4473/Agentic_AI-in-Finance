@@ -1,4 +1,4 @@
-# Agentiv_AI-in-Finance
+# Agentic_AI-in-Finance
 First AgenticAI project in financial technology! 
 
 I’ve successfully built my first Agentive AI application for financial agents and seamlessly integrated it with the PhiData platform. This application leverages the power of Groq AI Interface, enabling fast and free API keys for LLMs to supercharge the development process. 💡
